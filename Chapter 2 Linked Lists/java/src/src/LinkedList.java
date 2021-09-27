@@ -1,3 +1,7 @@
+/**
+ * @author Brandon Tenorio
+ * @param <T> Generic type
+ */
 public class LinkedList<T> {
     private Node<T> head;
     private int size = 0;
